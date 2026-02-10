@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-american-urban-realism-gender-dynamics",
+  "title": "The Quiet of a Staged Photograph",
+  "tagline": "In the sterile geometry of a modern marriage, a chance encounter under an awning threatens to expose the quiet, desperate rituals of a life built on omission.",
+  "target_words": 65595,
+  "actual_words": 65595,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Performance of Domesticity",
+    "Urban Alienation and Observation",
+    "The Architecture of Gender Roles",
+    "The Search for Authentic Self"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Man Under the Awning",
+      "words": 5963
+    },
+    {
+      "ch": 2,
+      "title": "A Smell of Refuge",
+      "words": 5963
+    },
+    {
+      "ch": 3,
+      "title": "Corporate Quaint and Desperation",
+      "words": 5963
+    },
+    {
+      "ch": 4,
+      "title": "A Suspension Chamber, Moving",
+      "words": 5963
+    },
+    {
+      "ch": 5,
+      "title": "The Quiet of a Machine Thinking",
+      "words": 5963
+    },
+    {
+      "ch": 6,
+      "title": "A Ledger in the Dark",
+      "words": 5963
+    },
+    {
+      "ch": 7,
+      "title": "A Victory of Stale Coffee",
+      "words": 5963
+    },
+    {
+      "ch": 8,
+      "title": "The Vertical Suffocation",
+      "words": 5963
+    },
+    {
+      "ch": 9,
+      "title": "The Color of a Bad Tooth",
+      "words": 5963
+    },
+    {
+      "ch": 10,
+      "title": "A Different Kind of Dust",
+      "words": 5963
+    },
+    {
+      "ch": 11,
+      "title": "The Bruise Healing to Yellow",
+      "words": 5963
+    }
+  ]
+}
